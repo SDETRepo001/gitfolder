@@ -1,0 +1,13 @@
+n Git there are 2 ways to integrate changes from one branch to another
+git merge
+git rebase
+
+git merge
+- Is a non-destructive operation
+- Existing branches are not changed in any way
+- Creates a new merge commit in the feature branch
+
+git rebase
+- Moves the entire feature branch to begin on the tip of the master branch
+- Re-writes the project history
+- We get much cleaner and linear project history
