@@ -1,0 +1,6 @@
+How to trigger notification email from github 
+whenever there is any change/commit in the project
+
+Step 1 : Github - Repository - Settings - integration & services - add email 
+
+Step 2 : Test and validate by making some change in the project
